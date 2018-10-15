@@ -2,7 +2,8 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
-# Project 1: Navigation
+# DQN Agent Unity Collect Bananas Environment
+
 
 ### Introduction
 
@@ -32,12 +33,12 @@ The task is episodic, and in order to solve the environment, your agent must get
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
-2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
+2. Place the file folder in the folder where you clone this repository, and unzip (or decompress) the file. 
 
 ### Instructions
 
 1. Create a conda environment.
-2. Install all the requirements listed in the requirements files in this repository
+2. Install all the requirements listed in the requirements.txt files in this repository
 3. Install pytorch.
 4. Open the Navigation.ipynb notebook and follow the instructiorns.
 
