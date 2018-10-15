@@ -39,8 +39,9 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 1. Create a conda environment.
 2. Install all the requirements listed in the requirements.txt files in this repository
-3. Install pytorch.
-4. Open the Navigation.ipynb notebook and follow the instructiorns.
+3. Install the unity ml-agents following the instructions on the repository "https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md"
+4. Install pytorch.
+5. Open the Navigation.ipynb notebook and follow the instructiorns.
 
 NOTE: In you want to see the agent training process, set the no_graphic variable on the unity environment declaration to false.  
 
